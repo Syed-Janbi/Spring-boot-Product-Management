@@ -37,3 +37,10 @@ The application uses Spring Data JPA for data persistence and an H2 in-memory da
    ```bash
    git clone https://github.com/Syed-Janbi/Spring-boot-Product-Management.git
    cd Spring-boot-Product-Management
+Build and run the application:
+2.
+bash
+mvn spring-boot:run
+Access the API:
+3.
+Open http://localhost:8080/products in your browser or API client.
