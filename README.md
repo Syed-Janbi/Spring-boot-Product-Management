@@ -41,11 +41,6 @@ The application uses Spring Data JPA for data persistence and an H2 in-memory da
 2. **Build and run application :**
 ```bash
 mvn spring-boot:run
-Access the API:
+
 3. **Access the API :**
 Open http://localhost:8080/products in your browser or API client.
-## Technologies Used
-Java
-Spring Boot
-Spring Data JPA
-H2 Database
